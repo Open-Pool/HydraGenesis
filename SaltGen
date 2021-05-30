@@ -2,7 +2,7 @@ pragma solidity >=0.5.8;
 
 /**
  * @title True random number generator
- * @notice This is a contract to generate a true random number on blockchai.
+ * @notice This is a contract to generate a true random number on blockchain.
  * Though true random number generators doesn't require seed. But, to simplify
  * the functions i used seed and other terms used in PRNGs,
  * seed should be enough to generate a random number, but to randomize the pattern
